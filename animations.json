@@ -1,0 +1,116 @@
+{
+  "swing-two": {
+    "name": "Махи двумя руками",
+    "path": "animations/swing-two.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "goblet-squat": {
+    "name": "Приседания с гирей у груди",
+    "path": "animations/goblet-squat.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "deadlift": {
+    "name": "Становая тяга",
+    "path": "animations/deadlift.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "row": {
+    "name": "Тяга в наклоне",
+    "path": "animations/row.gif",
+    "frames": 16,
+    "status": "preview"
+  },
+  "strict-press": {
+    "name": "Жим стоя",
+    "path": "animations/strict-press.gif",
+    "frames": 16,
+    "status": "preview"
+  },
+  "reverse-lunge": {
+    "name": "Выпады назад",
+    "path": "animations/reverse-lunge.gif",
+    "frames": 16,
+    "status": "preview"
+  },
+  "clean": {
+    "name": "Взятие гири на грудь",
+    "path": "animations/clean.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "floor-press": {
+    "name": "Жим гири лёжа",
+    "path": "animations/floor-press.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "romanian-deadlift": {
+    "name": "Румынская тяга",
+    "path": "animations/romanian-deadlift.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "swing-one": {
+    "name": "Махи одной рукой",
+    "path": "animations/swing-one.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "thruster": {
+    "name": "Приседания с жимом",
+    "path": "animations/thruster.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "halo": {
+    "name": "Вращение вокруг головы",
+    "path": "animations/halo.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "clean-press": {
+    "name": "Взятие на грудь и жим",
+    "path": "animations/clean-press.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "suitcase-carry": {
+    "name": "Чемоданная прогулка",
+    "path": "animations/suitcase-carry.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "push-press": {
+    "name": "Жим с подседом",
+    "path": "animations/push-press.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "around-world": {
+    "name": "Вращение гири вокруг тела",
+    "path": "animations/around-world.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "lateral-swing": {
+    "name": "Боковые махи",
+    "path": "animations/lateral-swing.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "russian-twist": {
+    "name": "Русские скручивания сидя",
+    "path": "animations/russian-twist.gif",
+    "frames": 12,
+    "status": "preview"
+  },
+  "standing-twist": {
+    "name": "Вращение корпуса стоя",
+    "path": "animations/standing-twist.gif",
+    "frames": 12,
+    "status": "preview"
+  }
+}
